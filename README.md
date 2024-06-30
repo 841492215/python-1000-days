@@ -1,5 +1,6 @@
 # Python 100 天学习计划
 https://zhuanlan.zhihu.com/p/421726412
+http://www.ityouknow.com/python.html
 
 从小白到工程师的学习之路
 
